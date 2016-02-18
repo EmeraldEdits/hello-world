@@ -1,2 +1,2 @@
 # hello-world
-Just starting off...
+Hi there, I EmeraldEdits here...venturing into the world of coding one language at a time.
